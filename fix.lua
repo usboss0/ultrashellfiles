@@ -219,6 +219,7 @@ gg.toast("🔎Abnormalities Removed🔐")
  
  bypassAlert = gg.alert(" ❖ υℓтяαѕнєℓℓ нα¢кѕ νιρ \n\n 『👨‍🔧』 ғᴏʀ ᴀɴʏ ɪssᴜᴇ ᴄᴏɴᴛᴀᴄᴛ : @USBoss0 \n\n", '⟬Start⟭')
 function START()
+  gg.setVisible(true)
 USMN = gg.multiChoice({
 "┌[Training/Game] [Once]\
 『🎁』 Perspective & Charms",
