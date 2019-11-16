@@ -309,7 +309,7 @@ end
 end
 BOSS = -1
 end
-
+gg.setVisible(false)
 function fastpc() 
 gg.clearResults()
   gg.setRanges(gg.REGION_ANONYMOUS)
