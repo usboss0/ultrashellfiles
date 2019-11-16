@@ -216,10 +216,10 @@ os.remove("/data/data/com.tencent.ig/files/tss_cs_stat2.dat")
 os.remove("/data/data/com.tencent.ig/files/tss.i.m.dat") 
 gg.toast("🔎Abnormalities Removed🔐")
 
- 
+gg.setVisible(true)
  bypassAlert = gg.alert(" ❖ υℓтяαѕнєℓℓ нα¢кѕ νιρ \n\n 『👨‍🔧』 ғᴏʀ ᴀɴʏ ɪssᴜᴇ ᴄᴏɴᴛᴀᴄᴛ : @USBoss0 \n\n", '⟬Start⟭')
 function START()
-  gg.setVisible(true)
+gg.setVisible(true)
 USMN = gg.multiChoice({
 "┌[Training/Game] [Once]\
 『🎁』 Perspective & Charms",
