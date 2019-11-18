@@ -223,7 +223,6 @@ os.remove("/data/data/com.tencent.ig/files/tss.i.m.dat")
 gg.toast("🔎 Abnormalities Removed 🔐")
 
  bypassAlert = gg.alert(" ❖ υℓтяαѕнєℓℓ нα¢кѕ νιρ (BETA SCRIPT) V1.2 \n\n 『👨‍🔧』 ғᴏʀ ᴀɴʏ ɪssᴜᴇ ᴄᴏɴᴛᴀᴄᴛ : @USBoss0 \n\n", '⟬Start⟭')
-function START()
 USBOSS = 1
 function HOMEX()
   MN = gg.choice({
